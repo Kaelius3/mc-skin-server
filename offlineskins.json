@@ -1,7 +1,7 @@
 {
   "useMojang": false,
   "useCrafatar": false,
-  "useCustomServer": false,
+  "useCustomServer": true,
   "useCustomServer2": true,
   "hostCustomServer2Skin": "https://raw.githubusercontent.com/Kaelius3/mc-skin-server/master/skins/%name%.png",
   "hostCustomServer2Cape": "https://raw.githubusercontent.com/Kaelius3/mc-skin-server/master/capes/%name%.png"
